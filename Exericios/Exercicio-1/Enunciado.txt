@@ -1,0 +1,16 @@
+EXERCÍCIO 01 — PRODUTOS POR FAIXA DE PREÇO
+
+Liste os produtos cujo preço esteja entre R$ 100 e R$ 500,
+inclusive.
+
+O resultado deve exibir:
+- nome do produto
+- preço
+
+Ordene pelo preço do maior para o menor.
+
+OBRIGATÓRIO:
+- WHERE
+- BETWEEN
+- ORDER BY
+- DESC
