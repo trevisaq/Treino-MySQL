@@ -1,0 +1,24 @@
+EXERCÍCIO 04 — VALOR TOTAL POR REGISTRO DE VENDA
+
+Para cada registro de venda, calcule o valor total da venda:
+
+quantidade × preço do produto
+
+O resultado deve exibir:
+- id da venda
+- id do produto
+- quantidade
+- preço unitário
+- valor total
+
+Considere apenas vendas cujo valor total seja superior
+a R$ 500.
+
+Ordene pelo maior valor total.
+
+OBRIGATÓRIO:
+- INNER JOIN
+- cálculo matemático
+- WHERE
+- ORDER BY
+- DESC

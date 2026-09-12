@@ -1,0 +1,22 @@
+EXERCÍCIO 05 — VENDAS DETALHADAS
+
+Liste todas as vendas exibindo:
+
+- nome do cliente
+- nome do produto
+- quantidade
+- preço unitário
+- valor total da venda
+
+O valor total deve ser calculado com:
+
+quantidade × preço
+
+Ordene as vendas do maior valor total para o menor.
+
+OBRIGATÓRIO:
+- INNER JOIN
+- múltiplas tabelas
+- cálculo matemático
+- ORDER BY
+- DESC

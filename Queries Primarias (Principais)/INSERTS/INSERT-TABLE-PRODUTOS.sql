@@ -7,7 +7,8 @@ VALUES
 	('Camiseta', 'Roupas', 79.99, 356),
 	('Shorts', 'Roupas', 129.99, 860),
 	('Martelo', 'Ferramentas', 29.99, 78),
-	('Machado', 'Ferramentas', 50.00, 42),
+	('Machado', 'Ferramentas', 220.00, 42),
+	('Maquita', 'Ferramentas', 235.99, 32),
 	('Conjunto de prego', 'Ferramentas', 12.50, 25),
 	('Quadro', 'Decoração', 76.99, 15),
 	('Vaso de flor', 'Decoração', 28.00, 30);
