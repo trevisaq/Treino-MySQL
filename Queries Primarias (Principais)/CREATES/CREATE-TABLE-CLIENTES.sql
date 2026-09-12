@@ -13,6 +13,9 @@ CREATE TABLE clientes(
 	email VARCHAR(255) UNIQUE 
 		COMMENT 'Email pessoal e unico do cliente',
 	
+	ativo BOOLEAN DEFAULT TRUE
+		COMMENT 'Status do cliente (ativo/inativo)',
+	
 	data_create DATETIME DEFAULT CURRENT_TIMESTAMP 
 		COMMENT 'Data de criação do registro do cliente'	
 )

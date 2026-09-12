@@ -1,0 +1,15 @@
+EXERCÍCIO 02 — FILTRO DE CLIENTES
+
+Liste os clientes cujo nome comece com a letra "A"
+OU termine com a letra "a".
+
+O resultado deve exibir apenas os dados necessários
+para identificar o cliente.
+
+Ordene os resultados alfabeticamente.
+
+OBRIGATÓRIO:
+- WHERE
+- LIKE
+- OR
+- ORDER BY

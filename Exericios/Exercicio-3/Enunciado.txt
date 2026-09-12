@@ -1,0 +1,16 @@
+EXERCÍCIO 03 — PREÇO COM DESCONTO
+
+Liste os produtos cujo preço seja superior a R$ 200.
+
+Além do preço original, exiba uma coluna contendo
+o preço do produto com 10% de desconto.
+
+A nova coluna deve se chamar "preco_desconto".
+
+Arredonde o resultado para 2 casas decimais.
+
+OBRIGATÓRIO:
+- WHERE
+- cálculo matemático
+- ROUND()
+- AS
