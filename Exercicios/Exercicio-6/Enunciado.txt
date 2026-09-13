@@ -1,0 +1,13 @@
+EXERCÍCIO 06 — CLIENTES SEM COMPRAS
+
+Liste todos os clientes que nunca realizaram uma compra.
+
+O resultado deve exibir:
+- id do cliente
+- nome do cliente
+
+OBRIGATÓRIO:
+- LEFT JOIN
+- IS NULL
+
+NÃO utilize INNER JOIN.

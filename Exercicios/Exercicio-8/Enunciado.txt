@@ -1,0 +1,16 @@
+EXERCÍCIO 08 — FATURAMENTO TOTAL
+
+Calcule o faturamento total de todas as vendas.
+
+O valor de cada venda deve ser calculado através de:
+
+quantidade × preço do produto
+
+Exiba apenas o valor final do faturamento,
+arredondado para 2 casas decimais.
+
+OBRIGATÓRIO:
+- INNER JOIN
+- SUM()
+- ROUND()
+- cálculo matemático

@@ -1,0 +1,18 @@
+EXERCÍCIO 09 — ESTATÍSTICAS DE VENDAS
+
+Calcule, considerando todas as vendas:
+
+- quantidade total de unidades vendidas
+- quantidade de registros de venda
+- quantidade média de unidades por venda
+- maior quantidade em uma única venda
+- menor quantidade em uma única venda
+
+Todos os valores devem aparecer no mesmo resultado.
+
+OBRIGATÓRIO:
+- SUM()
+- COUNT()
+- AVG()
+- MAX()
+- MIN()

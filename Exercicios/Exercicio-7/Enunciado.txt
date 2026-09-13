@@ -1,0 +1,16 @@
+EXERCÍCIO 07 — PRODUTOS SEM VENDAS
+
+Liste todos os produtos que nunca apareceram
+em nenhum registro de venda.
+
+O resultado deve exibir:
+- id do produto
+- nome do produto
+- preço
+
+Ordene pelo nome do produto.
+
+OBRIGATÓRIO:
+- LEFT JOIN
+- IS NULL
+- ORDER BY

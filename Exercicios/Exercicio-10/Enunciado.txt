@@ -1,0 +1,24 @@
+EXERCÍCIO 10 — FATURAMENTO POR PRODUTO
+
+Calcule o faturamento total de cada produto.
+
+O faturamento deve ser calculado através de:
+
+quantidade × preço do produto
+
+O resultado deve exibir:
+
+- nome do produto
+- quantidade total vendida
+- faturamento total
+
+Inclua apenas produtos que tenham sido vendidos.
+
+Ordene pelo maior faturamento.
+
+OBRIGATÓRIO:
+- INNER JOIN
+- SUM()
+- GROUP BY
+- ORDER BY
+- DESC
