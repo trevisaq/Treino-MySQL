@@ -1,0 +1,19 @@
+EXERCÍCIO 12 — CLIENTES DE ALTO VALOR
+
+Liste somente os clientes cujo valor total gasto
+seja superior a R$ 1.000.
+
+O resultado deve exibir:
+
+- nome do cliente
+- quantidade de produtos comprados
+- valor total gasto
+
+Ordene pelo maior valor gasto.
+
+OBRIGATÓRIO:
+- INNER JOIN
+- SUM()
+- GROUP BY
+- HAVING
+- ORDER BY

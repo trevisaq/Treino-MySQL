@@ -1,0 +1,20 @@
+EXERCÍCIO 11 — CONSUMO POR CLIENTE
+
+Calcule quanto cada cliente gastou no total.
+
+O resultado deve exibir:
+
+- nome do cliente
+- quantidade de compras realizadas
+- quantidade total de produtos comprados
+- valor total gasto
+
+Ordene do cliente que mais gastou para o que menos gastou.
+
+OBRIGATÓRIO:
+- INNER JOIN
+- COUNT()
+- SUM()
+- GROUP BY
+- ORDER BY
+- DESC

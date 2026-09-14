@@ -1,0 +1,23 @@
+EXERCÍCIO 15 — RANKING DE CLIENTES
+
+Crie um ranking dos clientes baseado no valor total
+gasto em compras.
+
+O resultado deve exibir:
+
+- posição no ranking
+- nome do cliente
+- quantidade total de produtos comprados
+- valor total gasto
+
+O cliente que mais gastou deve ocupar a posição 1.
+
+Ordene o resultado pela posição do ranking.
+
+OBRIGATÓRIO:
+- INNER JOIN
+- SUM()
+- GROUP BY
+- RANK() ou DENSE_RANK()
+- OVER()
+- ORDER BY

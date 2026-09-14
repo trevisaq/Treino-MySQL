@@ -1,0 +1,17 @@
+EXERCÍCIO 13 — PRODUTOS ACIMA DA MÉDIA
+
+Liste os produtos cujo preço seja superior
+ao preço médio de todos os produtos.
+
+O resultado deve exibir:
+
+- nome do produto
+- preço
+
+Ordene pelo preço do maior para o menor.
+
+OBRIGATÓRIO:
+- subquery
+- AVG()
+- WHERE
+- ORDER BY

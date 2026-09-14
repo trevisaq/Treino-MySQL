@@ -1,0 +1,21 @@
+EXERCÍCIO 14 — PRODUTO MAIS VENDIDO
+
+Identifique o produto com a maior quantidade total
+de unidades vendidas.
+
+O resultado deve exibir:
+
+- nome do produto
+- quantidade total vendida
+- faturamento total
+
+Considere a soma das quantidades de todas as vendas
+de cada produto.
+
+OBRIGATÓRIO:
+- INNER JOIN
+- SUM()
+- GROUP BY
+- ORDER BY
+- DESC
+- LIMIT
