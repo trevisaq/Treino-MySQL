@@ -1,0 +1,11 @@
+EXERCÍCIO 02 — CADASTRAR CLIENTE
+
+Crie uma PROCEDURE chamada `cadastrar_cliente` que receba:
+
+* Primeiro nome
+* Segundo nome
+* E-mail
+
+A procedure deve inserir um novo cliente na tabela `clientes`.
+
+Depois, execute a procedure para cadastrar um novo cliente.

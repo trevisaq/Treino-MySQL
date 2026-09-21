@@ -1,0 +1,11 @@
+EXERCÍCIO 03 — PRODUTOS ACIMA DE DETERMINADO PREÇO
+
+Crie uma PROCEDURE chamada `produtos_acima_preco` que receba
+um valor como parâmetro.
+
+A procedure deve retornar todos os produtos cujo preço seja
+maior que o valor informado.
+
+Exemplo:
+
+CALL produtos_acima_preco(100);

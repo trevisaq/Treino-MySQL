@@ -1,0 +1,11 @@
+EXERCÍCIO 01 — BUSCAR CLIENTE POR ID
+
+Crie uma PROCEDURE chamada `buscar_cliente` que receba o
+`id_cliente` como parâmetro e retorne:
+
+* ID do cliente
+* Primeiro nome
+* Segundo nome
+* E-mail
+
+Depois, execute a procedure passando um ID existente.

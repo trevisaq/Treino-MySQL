@@ -1,0 +1,16 @@
+EXERCÍCIO 05 — RELATÓRIO DE VENDAS DE UM CLIENTE
+
+Crie uma PROCEDURE chamada `vendas_cliente` que receba
+um `id_cliente`.
+
+Ela deve retornar todas as vendas realizadas pelo cliente,
+apresentando:
+
+* Nome do cliente
+* ID da venda
+* Produto
+* Quantidade
+* Preço unitário
+* Valor total da venda
+
+Objetivo: combinar PROCEDURE + JOIN + cálculo.

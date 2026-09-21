@@ -1,0 +1,15 @@
+EXERCÍCIO 04 — FATURAMENTO DE UM PRODUTO
+
+Crie uma PROCEDURE chamada `faturamento_produto` que receba
+o `id_produto`.
+
+Ela deve calcular o faturamento total daquele produto
+considerando:
+
+preço × quantidade vendida
+
+O resultado deve apresentar:
+
+* Nome do produto
+* Quantidade total vendida
+* Faturamento total
