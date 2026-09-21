@@ -1,0 +1,17 @@
+EXERCÍCIO 04 — REGISTRAR EXCLUSÃO DE CLIENTE
+
+Crie uma tabela chamada `log_clientes_excluidos` contendo:
+
+* ID do log
+* ID do cliente excluído
+* Nome do cliente
+* E-mail
+* Data da exclusão
+
+Depois, crie uma TRIGGER que seja executada quando um cliente
+for excluído.
+
+Antes que os dados sejam removidos, registre essas informações
+no log.
+
+Objetivo: praticar BEFORE DELETE e OLD.

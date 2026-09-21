@@ -1,0 +1,16 @@
+EXERCÍCIO 04 — FATURAMENTO POR PRODUTO
+
+Crie uma VIEW chamada `view_faturamento_produtos`.
+
+Ela deve apresentar:
+
+* ID do produto
+* Nome do produto
+* Quantidade total vendida
+* Faturamento total
+
+Utilize:
+
+* JOIN
+* SUM()
+* GROUP BY

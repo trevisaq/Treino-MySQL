@@ -1,0 +1,9 @@
+EXERCÍCIO 01 — REGISTRAR DATA DA VENDA
+
+Crie uma TRIGGER que seja executada antes de inserir uma
+nova venda.
+
+Ela deve preencher automaticamente a data da venda com a
+data/hora atual.
+
+Objetivo: praticar BEFORE INSERT e NEW.

@@ -1,0 +1,17 @@
+EXERCÍCIO 03 — REGISTRAR ALTERAÇÃO DE PREÇO
+
+Crie uma tabela chamada `historico_precos` contendo:
+
+* ID do histórico
+* ID do produto
+* Preço antigo
+* Preço novo
+* Data da alteração
+
+Depois, crie uma TRIGGER que seja executada após um UPDATE
+em `produtos`.
+
+Sempre que o preço de um produto for alterado, registre
+automaticamente a alteração em `historico_precos`.
+
+Objetivo: praticar AFTER UPDATE, OLD e NEW.

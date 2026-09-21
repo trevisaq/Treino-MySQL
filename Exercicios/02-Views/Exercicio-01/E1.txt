@@ -1,0 +1,11 @@
+EXERCÍCIO 01 — CLIENTES
+
+Crie uma VIEW chamada `view_clientes` que apresente:
+
+* ID do cliente
+* Nome completo
+* E-mail
+
+Depois, faça um SELECT utilizando a VIEW.
+
+---

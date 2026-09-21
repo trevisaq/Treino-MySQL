@@ -1,0 +1,12 @@
+EXERCÍCIO 03 — DETALHES DAS VENDAS
+
+Crie uma VIEW chamada `view_detalhes_vendas` que apresente,
+para cada registro:
+
+* ID da venda
+* Nome do produto
+* Quantidade
+* Preço unitário
+* Valor total
+
+Utilize JOIN entre as tabelas necessárias.

@@ -1,0 +1,29 @@
+EXERCÍCIO 05 — CONTROLE DE ESTOQUE
+
+Adicione uma coluna `estoque` na tabela `produtos`.
+
+Depois, crie uma TRIGGER que seja executada após uma venda
+ser registrada.
+
+Quando uma venda for inserida:
+
+estoque = estoque - quantidade vendida
+
+Exemplo:
+
+Estoque atual: 20
+Quantidade vendida: 3
+
+Novo estoque: 17
+
+A trigger deve impedir a venda caso a quantidade solicitada
+seja maior que o estoque disponível.
+
+Objetivo: praticar:
+
+* BEFORE INSERT
+* AFTER INSERT
+* NEW
+* OLD
+* Validação
+* Atualização automática de dados

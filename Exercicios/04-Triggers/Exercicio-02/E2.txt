@@ -1,0 +1,9 @@
+EXERCÍCIO 02 — IMPEDIR QUANTIDADE INVÁLIDA
+
+Crie uma TRIGGER que seja executada antes de inserir um
+registro em `registros_vendas`.
+
+Se a quantidade informada for 0 ou menor, a trigger deve
+impedir a inserção e retornar uma mensagem de erro.
+
+Objetivo: praticar validação com BEFORE INSERT.

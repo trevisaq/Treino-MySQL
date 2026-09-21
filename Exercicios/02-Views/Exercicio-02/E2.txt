@@ -1,0 +1,10 @@
+EXERCÍCIO 02 — PRODUTOS E PREÇOS
+
+Crie uma VIEW chamada `view_produtos` contendo:
+
+* ID do produto
+* Nome do produto
+* Preço
+
+Os produtos devem aparecer ordenados pelo preço do maior
+para o menor na consulta que utiliza a VIEW.
