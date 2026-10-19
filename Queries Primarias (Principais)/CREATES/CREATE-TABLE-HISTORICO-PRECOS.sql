@@ -11,7 +11,7 @@ CREATE TABLE historico_precos(
 	preco_novo FLOAT NOT NULL 
 		COMMENT 'Preco depois da atualização',
 	
-	data_alteracao DATE NOT NULL 
+	data_alteracao DATETIME NOT NULL 
 		COMMENT 'Data da atualização',
 		
 	FOREIGN KEY (id_produto) REFERENCES produtos(id_produto)		

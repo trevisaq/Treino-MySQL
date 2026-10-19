@@ -14,6 +14,6 @@ CREATE TABLE log_clientes_excluidos(
 	data_entrada DATETIME
 		COMMENT 'Data que o cliente foi adicionado na sua tabela',
 
-	data_exclusao DATE NOT NULL 
+	data_exclusao DATETIME NOT NULL 
 		COMMENT 'Data da remoção / exclusão'
 );

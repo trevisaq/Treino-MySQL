@@ -1,5 +1,4 @@
 USE sistema_vendas;
-
 INSERT INTO 
 	clientes (nome, sobrenome, email, ativo, data_create)
 VALUES 

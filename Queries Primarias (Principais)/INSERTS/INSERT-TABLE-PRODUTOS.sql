@@ -1,5 +1,4 @@
 USE sistema_vendas;
-
 INSERT INTO 
 	produtos (nome_produto, classe, preco, estoque)
 VALUES 

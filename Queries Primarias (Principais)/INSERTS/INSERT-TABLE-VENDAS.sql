@@ -1,5 +1,4 @@
 USE sistema_vendas;
-
 INSERT INTO
 	registros_vendas (id_cliente, id_produto, quantidade, data_venda)
 VALUES 
